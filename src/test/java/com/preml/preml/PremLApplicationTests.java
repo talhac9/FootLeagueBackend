@@ -1,13 +1,13 @@
-package com.fl.footleague;
+package com.preml.preml;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class FootLeagueApplicationTests {
+class PremLApplicationTests {
 
-    @Test
-    void contextLoads() {
-    }
+	@Test
+	void contextLoads() {
+	}
 
 }
